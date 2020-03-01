@@ -407,8 +407,7 @@ a.active,.main-nav a.selected{
 	padding: 15px 15px;
 }
 .p-item{
-	font-size: 28px;
-	margin-bottom: 60px;
+	margin-bottom: 20px;
 }
 /*the program ends */
 @media (min-width: 769px){
