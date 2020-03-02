@@ -388,38 +388,23 @@ a.active,.main-nav a.selected{
 /* organizers starts */
 .box{
 	max-width: 1170px;
-	margin: 0 auto 40px;
+	margin: 0 auto;
 	padding: 15px 15px;
 }
 .box .box-title{
 	font-size: 28px;
-	margin-bottom: 30px;
+	margin-bottom: 15px;
 }
-.box .box-items{
-	overflow: hidden;
+.box .box-item{
+	margin-left: 20px;
 }
-.box .box-items .item{
-	float: left;
-	background-color: #f2f3f5;
-	height: 200px;
-	width: 300px;
-	padding: 20px 20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
+.box .box-item li{
+	list-style: dotted;
+	line-height: 2;
 }
-.box .box-items .item div{
-	line-height: 3;
-}
-.box .box-items .item .item-name a{
+.box .box-item li .name{
 	font-size: 20px;
-}
-.box .box-items-plain{
-	overflow: hidden;
-}
-.box .box-items-plain .item{
-	padding: 15px 15px;
-	margin-right: 20px;
-	margin-bottom: 10px;
+	text-decoration: none;
 }
 /* organizers ends */
 /*the program starts */
