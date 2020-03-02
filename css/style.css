@@ -109,6 +109,12 @@ p.last{
 .bold{
 	font-weight: bold;
 }
+.content p{
+	text-align: justify;
+}
+.txt-justify{
+	text-align: justify!important;
+}
 /* common ends */
 /* .heading */
 .heading{
