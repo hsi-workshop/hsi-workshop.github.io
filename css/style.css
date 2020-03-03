@@ -115,6 +115,9 @@ p.last{
 .txt-justify{
 	text-align: justify!important;
 }
+.mtop10{
+	margin-top: 10px!important;
+}
 /* common ends */
 /* .heading */
 .heading{
@@ -283,7 +286,7 @@ a.active,.main-nav a.selected{
 	line-height: 2;
 	font-weight: 400;
 	color: #929191;
-	margin-top: 50px;
+	margin-top: 20px;
 }
 .sponsor-content{
 	width: 50%;
