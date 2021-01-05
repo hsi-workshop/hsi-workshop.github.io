@@ -118,6 +118,9 @@ p.last{
 .mtop10{
 	margin-top: 10px!important;
 }
+.m20{
+	margin: 20px 0;
+}
 /* common ends */
 /* .heading */
 .heading{
@@ -424,6 +427,27 @@ a.active,.main-nav a.selected{
 }
 .p-item{
 	margin-bottom: 20px;
+}
+
+.time{
+	margin: 20px 0;
+	border-collapse: collapse;
+}
+.time tr{
+	height: 40px;
+}
+.time th, .time td{
+	padding: 5px 10px;
+	border: 1px solid #ccc;
+}
+.time th{
+	font-weight: bold;
+}
+.time .zebras{
+	background-color: #e0e0e0;
+}
+.list-normal{
+	margin: 20px 0;
 }
 /*the program ends */
 @media (min-width: 769px){
