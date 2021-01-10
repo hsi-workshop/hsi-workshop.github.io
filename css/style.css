@@ -449,6 +449,10 @@ a.active,.main-nav a.selected{
 .list-normal{
 	margin: 20px 0;
 }
+.time a{
+	text-decoration: none;
+	margin-left: 5px;
+}
 /*the program ends */
 @media (min-width: 769px){
 	.heading{
